@@ -31,6 +31,10 @@ body {
     transition: transform 0.3s;
 }
 
+.seta-esquerda:hover {
+    transform: scale(1.1);
+}
+
 .imagem-direita {
    width: 275px;
     border-radius: 8px
