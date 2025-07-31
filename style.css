@@ -32,13 +32,9 @@ body {
 }
 
 .imagem-direita {
-   width: 200px;
-    cursor: pointer;
-    transition: transform 0.3s;
+   width: 275px;
+    border-radius: 8px
 }
 
-.imagem-direita:hover {
-    transform: scale(1.1);
-}
 
 
