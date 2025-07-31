@@ -24,3 +24,9 @@ body {
 .seta-direita:hover {
     transform: scale(1.1);
 }
+
+.seta-esquerda {
+    width: 400px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
