@@ -16,7 +16,7 @@ body {
 }
 
 .seta-direita {
-    width: 200px;
+    width: 400px;
     cursor: pointer;
     transition: transform 0.3s;
 }
