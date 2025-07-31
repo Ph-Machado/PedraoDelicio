@@ -30,3 +30,14 @@ body {
     cursor: pointer;
     transition: transform 0.3s;
 }
+
+.imagem-direita {
+    width: 275px;
+    border-radius: 8px;
+}
+
+.imagem-direita:hover {
+    transform: scale(1.1);
+}
+
+
